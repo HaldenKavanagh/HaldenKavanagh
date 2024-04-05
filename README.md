@@ -6,8 +6,6 @@
 
 My coding journey started at the University of Denver coding bootcamp, igniting a passion for web development. I found that I really enjoy the problem solving aspect in programming, and seeing my work improve alongside my skillset is extremely gratifying.
 
-Outside of coding, you'll find me exploring Boulder's outdoors through hikes, enjoying video games, and building intricate fishtanks. My diverse interests fuel my creativity both in code and in life. Let's create something exceptional together!
-
 ---
 
 ## My professional Skillset:
